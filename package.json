@@ -14,8 +14,8 @@
     "rough-notation": "^0.5.1"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^13.0.0",
